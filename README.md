@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Sou Programador Front-end <br><br>- 🔭 Estou trabalhando com Programador <br>- 📚  Atualmente estou aprendendo  Firebase. <br>- ⚡ No meu tempo livre eu  faço Projetos..</p>
 
 ###
 
