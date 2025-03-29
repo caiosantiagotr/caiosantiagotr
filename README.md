@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-👩‍💻Sou Programador Front-end.<br>🔭 Estou trabalhando com Programador.<br>📚 Firebase.<br>⚡ No meu tempo livre eu  faço Projetos..
+👩‍💻Sou Programador Mobile.<br>🔭 Estou trabalhando com Programador.<br>📚 Firebase.<br>⚡ No meu tempo livre eu  faço Projetos..
 
 
 ## 🌐 Rede Sociais:
