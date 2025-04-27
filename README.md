@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 💻 Programador Mobile..<br>📲Tecnologia..<br>📁 FireBase..<br>🔭Programação.<br>⚠️Aplicativos.
 
 
