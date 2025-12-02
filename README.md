@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💻 Análise e Desenvolvimento de Sistemas..<br>📲Tecnologia..<br>📁 FireBase..<br>🔭Programação.<br>⚠️Aplicativos.
+💻 Análise e Desenvolvimento de Sistemas..
 
 
 ## 🌐 Redes sociais:
