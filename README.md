@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalhando em: Projetos de desenvolvimento de software e sistemas web.<br><br>👯 Procuro colaborar em: Projetos de código aberto e soluções inovadoras.<br><br>🤝 Preciso de ajuda com: Melhores práticas de arquitetura e novas tecnologias.<br><br>🌱 Estou aprendendo: Novas linguagens, frameworks e Cloud Computing.<br><br>💬 Pergunte-me sobre: Lógica de programação, bancos de dados e Java/Python.<br><br>⚡ Curiosidade: Resolvo problemas complexos transformando café em código.
+🔭 Atualmente trabalhando em: Projetos de desenvolvimento de software e sistemas web.<br><br>👯 Procuro colaborar em: Projetos de código aberto e soluções inovadoras.<br><br>🌱 Estou aprendendo: Novas linguagens, frameworks e Cloud Computing.<br><br>💬 Pergunte-me sobre: Lógica de programação, bancos de dados e Java/Python.<br><br>⚡ Curiosidade: Resolvo problemas complexos transformando café em código.
 
 
 ## 🌐 Socials:
