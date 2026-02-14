@@ -82,8 +82,8 @@ Focado em criar softwares eficientes, bem estruturados e com qualidade, sempre b
 
 ## 📫 Contato
 
-🔗 **GitHub: https://github.com/caiosantiagotr  
+🔗 GitHub: https://github.com/caiosantiagotr  
 
-💼 **LinkedIn: https://www.linkedin.com/in/caio-santiago-27764533a/ 
+💼 LinkedIn: https://www.linkedin.com/in/caio-santiago-27764533a/ 
 
-📸 **Instagram: https://www.instagram.com/caiogomesbroficiall/
+📸 Instagram: https://www.instagram.com/caiogomesbroficiall/
