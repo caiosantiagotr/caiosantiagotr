@@ -36,9 +36,9 @@ Focused on building clean, efficient, and well-structured software, with strong 
 
 ## 🌐 Reach Me
 
-🔗 **GitHub:    https://github.com/caiosantiagotr  
-💼 **LinkedIn: https://www.linkedin.com/in/caio-santiago-27764533a/  
-📸 **Instagram:  https://www.instagram.com/caiogomesbroficiall/
+🔗 GitHub:    https://github.com/caiosantiagotr  
+💼 LinkedIn: https://www.linkedin.com/in/caio-santiago-27764533a/  
+📸 Instagram:  https://www.instagram.com/caiogomesbroficiall/
 
 ---
 
