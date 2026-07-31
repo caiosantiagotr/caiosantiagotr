@@ -1,88 +1,63 @@
-# 👋 Hi, I’m Caio!
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-**Software Developer | Web & Systems Enthusiast**
+###
 
-Focused on building clean, efficient, and well-structured software, with strong emphasis on problem solving, continuous learning, and modern technologies.
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/caio-santiagotr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/caiogomesbroficiall/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/caiosantiago0987sg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
----
+###
 
-## 💡 Core Skills
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=caiosantiagotr.caiosantiagotr&"  />
+</div>
 
-🧠 **Systems & Development**  
-- Web Development  
-- Software Logic  
-- Problem Solving  
-- Clean Code  
-- Version Control (Git)
+###
 
----
+<h1 data-importer="text" align="center">Olá, eu sou o Caio!👋</h1>
 
-## 🛠️ Tools & Technologies
+###
 
-- **Languages:** JavaScript, Python, TypeScript, C, C#  
-- **Web:** HTML5, CSS3, React  
-- **Others:** Git, GitHub, Cloud (learning)
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
----
+###
 
-## 🚀 What I’m Doing Now
+<p data-importer="text" align="left">Desenvolvedor de Software | Web & Sistemas<br><br>Focado em criar softwares eficientes, bem estruturados e com qualidade, sempre buscando aprender novas tecnologias e resolver problemas de forma criativa.</p>
 
-- Developing software and web projects  
-- Collaborating on open-source and innovative solutions  
-- Learning new frameworks, languages, and Cloud Computing  
-- Improving code structure, documentation, and best practices  
+###
 
----
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
-## 🌐 Reach Me
+###
 
-🔗 GitHub:    https://github.com/caiosantiagotr  
-💼 LinkedIn: https://www.linkedin.com/in/caio-santiago-27764533a/  
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
+###
 
----
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
-# 🇧🇷
+###
 
-## 👋 Olá, eu sou o Caio!
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=caiosantiagotr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-**Desenvolvedor de Software | Web & Sistemas**
-
-Focado em criar softwares eficientes, bem estruturados e com qualidade, sempre buscando aprender novas tecnologias e resolver problemas de forma criativa.
-
----
-
-## 💡 Habilidades Principais
-
-🧠 **Desenvolvimento & Sistemas**  
-- Desenvolvimento Web  
-- Lógica de Programação  
-- Resolução de Problemas  
-- Código Limpo  
-- Controle de Versão (Git)
-
----
-
-## 🛠️ Ferramentas & Tecnologias
-
-- **Linguagens:** JavaScript, Python, TypeScript, C, C#  
-- **Web:** HTML5, CSS3, React  
-- **Outros:** Git, GitHub, Cloud (em aprendizado)
-
----
-
-## 🚀 O Que Estou Fazendo Atualmente
-
-- Desenvolvendo projetos de software e sistemas web  
-- Colaborando em projetos open-source  
-- Aprendendo novas linguagens, frameworks e Cloud  
-- Melhorando estrutura de código e documentação  
-
----
-
-## 📫 Contato
-
-💼 LinkedIn: https://www.linkedin.com/in/caio-santiago-27764533a/ 
-
-✉️ Email: caiosantiago0987sg@gmail.com
-
+###
