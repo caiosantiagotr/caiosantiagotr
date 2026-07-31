@@ -24,7 +24,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Olá, eu sou o Caio!👋</h1>
+<h1 data-importer="text" align="center">Meu, nome é Caio!👋</h1>
 
 ###
 
