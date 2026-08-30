@@ -251,7 +251,7 @@ Projetos utilizados para testar novas tecnologias, conceitos e ideias.
 </td>
 </tr>
 </table>
-# `08` // GITHUB ANALYTICS
+
 
 <div align="center">
 
