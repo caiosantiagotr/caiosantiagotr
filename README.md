@@ -251,42 +251,6 @@ Projetos utilizados para testar novas tecnologias, conceitos e ideias.
 </td>
 </tr>
 </table>
-
----
-
-# `07` // MISSION CONTROL
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    CURRENT MISSION                      ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  [01] Improve Database & SQL knowledge                  ║
-║                                                          ║
-║  [02] Build practical Web Development projects          ║
-║                                                          ║
-║  [03] Improve JavaScript & React                         ║
-║                                                          ║
-║  [04] Expand Python knowledge                            ║
-║                                                          ║
-║  [05] Become a stronger Software Developer              ║
-║                                                          ║
-║  [06] Transform ideas into real projects                ║
-║                                                          ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  STATUS: IN PROGRESS                                     ║
-║  OBJECTIVE: CONTINUOUS EVOLUTION                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 # `08` // GITHUB ANALYTICS
 
 <div align="center">
