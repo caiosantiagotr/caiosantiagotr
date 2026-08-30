@@ -1,49 +1,35 @@
-<h1 align="center">Olá, eu sou o Daniel 👋</h1>
+# Olá, eu sou o Caio 👋
 
-<p align="center">
-  <img src="assets/hero-terminal.svg" width="860" alt="Daniel16Bit terminal profile card" />
-</p>
+Desenvolvedor apaixonado por construir soluções eficientes e explorar novas tecnologias.
+Sempre em busca de aprender algo novo e transformar ideias em código.
 
-<p align="center">
-  Desenvolvedor apaixonado por construir soluções eficientes e explorar novas tecnologias.<br/>
-  Sempre em busca de aprender algo novo e transformar ideias em código.
-</p>
+## 🚀 Projetos em destaque
 
-<h2 align="center">🚀 Projetos em destaque</h2>
+<!-- Substitua "seu-usuario/nome-do-repo" pelo caminho real dos seus repositórios -->
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo-1&theme=default)](https://github.com/seu-usuario/nome-do-repo-1)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo-2&theme=default)](https://github.com/seu-usuario/nome-do-repo-2)
 
-<p align="center">
-  <img src="assets/projects.svg" width="870" alt="Featured projects" />
-</p>
+## 🛠️ Tecnologias e ferramentas
 
-<h2 align="center">🛠️ Tecnologias e ferramentas</h2>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,vscode,figma,docker" />
-</p>
+## 📊 Estatísticas do GitHub
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+<!-- Troque "seu-usuario" pelo seu usuário real do GitHub nas 3 imagens abaixo -->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel16Bit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel16Bit&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel16Bit&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top languages" />
-</p>
+![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=default)
 
-<h2 align="center">📫 Vamos nos conectar</h2>
+## 📫 Vamos nos conectar
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdaniel-main/"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/Daniel16Bit"><img src="assets/btn-github.svg" height="48" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://instagram.com/daniel8bit"><img src="assets/btn-instagram.svg" height="48" alt="Instagram" /></a>
-  &nbsp;
-  <a href="mailto:mdaniel.main@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <sub>⭐️ Se curtiu algum dos meus projetos, deixa uma estrela!</sub>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
