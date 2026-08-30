@@ -1,35 +1,396 @@
-# Olá, eu sou o Caio 👋
+<!-- ========================================================= -->
 
-Desenvolvedor apaixonado por construir soluções eficientes e explorar novas tecnologias.
-Sempre em busca de aprender algo novo e transformar ideias em código.
+<!--                    CAIO GITHUB PROFILE                    -->
 
-## 🚀 Projetos em destaque
+<!--             JARVIS / CYBERPUNK INTERFACE                  -->
 
-<!-- Substitua "seu-usuario/nome-do-repo" pelo caminho real dos seus repositórios -->
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo-1&theme=default)](https://github.com/seu-usuario/nome-do-repo-1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo-2&theme=default)](https://github.com/seu-usuario/nome-do-repo-2)
+<!-- ========================================================= -->
 
-## 🛠️ Tecnologias e ferramentas
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+# `> CAIO.DEV`
 
-## 📊 Estatísticas do GitHub
+### `SYSTEM INITIALIZATION...`
 
-<!-- Troque "seu-usuario" pelo seu usuário real do GitHub nas 3 imagens abaixo -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=SYSTEM+ONLINE+%7C+CAIO.DEV;SOFTWARE+DEVELOPER;DATABASE+%7C+SQL+%7C+WEB+DEVELOPMENT;JAVASCRIPT+%7C+REACT+%7C+PYTHON;BUILDING+IDEAS+INTO+PROJECTS..." alt="Typing Animation"/>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default)
+<br>
 
-![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=default)
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00FF88?style=for-the-badge"/>
 
-## 📫 Vamos nos conectar
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+<img src="https://komarev.com/ghpvc/?username=caiosantiagotr&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ██████╗ █████╗ ██╗ ██████╗     ██████╗ ███████╗██╗   ██╗         ║
+║  ██╔════╝██╔══██╗██║██╔═══██╗    ██╔══██╗██╔════╝██║   ██║         ║
+║  ██║     ███████║██║██║   ██║    ██║  ██║█████╗  ██║   ██║         ║
+║  ██║     ██╔══██║██║██║   ██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝         ║
+║  ╚██████╗██║  ██║██║╚██████╔╝    ██████╔╝███████╗ ╚████╔╝          ║
+║   ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝           ║
+║                                                                      ║
+║                 ARTIFICIAL INTELLIGENCE CORE                        ║
+║                       INITIALIZING...                               ║
+║                                                                      ║
+║   [██████████████████████████████████████████████████] 100%         ║
+║                                                                      ║
+║   NETWORK ............... CONNECTED                                  ║
+║   DATABASE .............. READY                                      ║
+║   DEVELOPMENT ........... ACTIVE                                     ║
+║   LEARNING .............. ENABLED                                    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+# `01` // SOBRE MIM
+
+<div align="center">
+
+### 👨‍💻 SOFTWARE DEVELOPER
+
+</div>
+
+Olá! Eu sou **Caio**, desenvolvedor de software com foco em **Banco de Dados, SQL e Desenvolvimento Web**.
+
+Tenho interesse em criar soluções utilizando tecnologia e transformar ideias em **projetos práticos, funcionais e bem estruturados**.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, buscando evoluir constantemente em programação, banco de dados e desenvolvimento web.
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   👨‍💻 SOFTWARE DEVELOPMENT                                 │
+│   🗄️  DATABASE & SQL                                       │
+│   🌐 WEB DEVELOPMENT                                       │
+│   ⚡ JAVASCRIPT                                            │
+│   ⚛️  REACT                                                │
+│   🐍 PYTHON                                                │
+│                                                            │
+│   LOCATION: TRÊS RIOS                                     │
+│   MODE: CONSTANT LEARNING                                 │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# `02` // TECH STACK
+
+<div align="center">
+
+### 🌐 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+<br><br>
+
+### 🐍 PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+### 🗄️ DATABASE
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</div>
+
+---
+
+# `03` // TECHNOLOGY MATRIX
+
+<div align="center">
+
+|         SYSTEM         | TECHNOLOGIES                           |
+| :--------------------: | :------------------------------------- |
+|     🌐 **FRONTEND**    | HTML5 · CSS3 · JavaScript · React      |
+|   🐍 **PROGRAMMING**   | Python                                 |
+|    🗄️ **DATABASE**    | MySQL · SQL                            |
+|   💻 **DEVELOPMENT**   | Software Development · Web Development |
+| 🔧 **VERSION CONTROL** | Git · GitHub                           |
+|  🧠 **CURRENT FOCUS**  | Databases · SQL · Web Development      |
+
+</div>
+
+---
+
+# `04` // FERRAMENTAS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-VERSION%20CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DEVELOPMENT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-EDITOR-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-DATABASE-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+---
+
+# `05` // CURRENT LEARNING
+
+```text
+CAIO@SYSTEM:~$ ./learning_progress.sh
+
+> DATABASE & SQL
+  [████████████████████░░░░] 80%
+
+> WEB DEVELOPMENT
+  [██████████████████░░░░░░] 75%
+
+> JAVASCRIPT
+  [█████████████████░░░░░░░] 70%
+
+> REACT
+  [███████████████░░░░░░░░░] 65%
+
+> PYTHON
+  [██████████████░░░░░░░░░░] 60%
+
+> SOFTWARE DEVELOPMENT
+  [██████████████████░░░░░░] 75%
+
+SYSTEM MESSAGE:
+> Learning mode activated.
+> Knowledge database expanding...
+> Next level: FULL STACK DEVELOPMENT
+```
+
+---
+
+# `06` // PROJECT DATABASE
+
+<div align="center">
+
+### 🚀 PROJETOS
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/caiosantiagotr?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🌐 WEB DEVELOPMENT
+
+Projetos focados em desenvolvimento web, interfaces e aplicações utilizando tecnologias modernas.
+
+<br>
+
+`HTML` `CSS` `JavaScript` `React`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🗄️ DATABASE SYSTEM
+
+Projetos envolvendo banco de dados, SQL, estruturação e manipulação de informações.
+
+<br>
+
+`MySQL` `SQL` `Python`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🐍 PYTHON PROJECTS
+
+Aplicações e experimentos desenvolvidos para aprimorar lógica de programação e automação.
+
+<br>
+
+`Python` `Logic` `Automation`
+
+</td>
+
+<td width="50%" align="center">
+
+### 💡 EXPERIMENTAL LAB
+
+Projetos utilizados para testar novas tecnologias, conceitos e ideias.
+
+<br>
+
+`Learning` `Research` `Innovation`
+
+</td>
+</tr>
+</table>
+
+---
+
+# `07` // MISSION CONTROL
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                    CURRENT MISSION                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [01] Improve Database & SQL knowledge                  ║
+║                                                          ║
+║  [02] Build practical Web Development projects          ║
+║                                                          ║
+║  [03] Improve JavaScript & React                         ║
+║                                                          ║
+║  [04] Expand Python knowledge                            ║
+║                                                          ║
+║  [05] Become a stronger Software Developer              ║
+║                                                          ║
+║  [06] Transform ideas into real projects                ║
+║                                                          ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  STATUS: IN PROGRESS                                     ║
+║  OBJECTIVE: CONTINUOUS EVOLUTION                         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# `08` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=caiosantiagotr&include_all_commits=true&theme=highcontrast&hide_border=true" />
+
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=caiosantiagotr&layout=compact&theme=highcontrast&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=caiosantiagotr&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# `09` // ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caiosantiagotr&theme=tokyo-night&hide_border=true&area=true&custom_title=CAIO%20DEVELOPMENT%20ACTIVITY" />
+
+</div>
+
+---
+
+# `10` // GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=caiosantiagotr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+# `11` // CONTRIBUTION MATRIX
+
+<div align="center">
+
+### 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/caiosantiagotr/caiosantiagotr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# `12` // NETWORK
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/caio-santiagotr/" target="_blank">
+
+<img src="https://img.shields.io/badge/LINKEDIN-CAIO%20SANTIAGO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/caiosantiagotr" target="_blank">
+
+<img src="https://img.shields.io/badge/GITHUB-CAIOSANTIAGOTR-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# `> SYSTEM SHUTDOWN`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│              "CODE. LEARN. BUILD. EVOLVE."                │
+│                                                            │
+│       ─────────────────────────────────────────────        │
+│                                                            │
+│              SYSTEM STATUS : ONLINE                       │
+│              DEVELOPER     : ACTIVE                       │
+│              LEARNING      : ENABLED                      │
+│              FUTURE        : LOADING...                    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILT%20WITH-CODE-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-CONTINUOUS%20LEARNING-8A2BE2?style=for-the-badge"/>
+
+<br><br>
+
+**⚡ Building the future, one line of code at a time.**
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                     END OF SYSTEM                         -->
+
+<!-- ========================================================= -->
